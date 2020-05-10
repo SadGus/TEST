@@ -1,0 +1,9 @@
+# exported with NifSkope
+
+mtllib TOPHELM.mtl
+
+# default001
+
+g default001
+usemtl Material.000001
+
